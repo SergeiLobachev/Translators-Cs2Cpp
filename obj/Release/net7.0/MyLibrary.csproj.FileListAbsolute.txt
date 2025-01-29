@@ -1,0 +1,11 @@
+F:\Project\MyLibrary\bin\Release\net7.0\MyLibrary.deps.json
+F:\Project\MyLibrary\bin\Release\net7.0\MyLibrary.dll
+F:\Project\MyLibrary\bin\Release\net7.0\MyLibrary.pdb
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.AssemblyInfoInputs.cache
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.AssemblyInfo.cs
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.csproj.CoreCompileInputs.cache
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.dll
+F:\Project\MyLibrary\obj\Release\net7.0\refint\MyLibrary.dll
+F:\Project\MyLibrary\obj\Release\net7.0\MyLibrary.pdb
+F:\Project\MyLibrary\obj\Release\net7.0\ref\MyLibrary.dll

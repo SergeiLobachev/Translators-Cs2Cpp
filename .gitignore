@@ -1,0 +1,43 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Build artifacts
+*.egg-info/
+*.eggs
+*.dist-info
+*.whl
+
+# Container files
+*.dockerignore
+*.env
